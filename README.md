@@ -1,4 +1,4 @@
-#  EX 8-Update-the-Ultrasonic-sensor-value-in-Things Mate
+#  EX 8-Update the Ultrasonic sensor value in Things Mate
 # Name:SOUNDARYA J
 # Reg no:212223220108
 
